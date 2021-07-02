@@ -1,0 +1,37 @@
+body{
+   background-color: rgb(240, 245, 241);
+   font-size: 15px;
+}
+
+.image{
+    width: 100px;
+
+}
+.img{
+  width: 100%;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    padding: 20px;
+   
+
+}
+ul li{
+    display: inline-block;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(250, 253, 252);
+    background-color: rgb(1, 213, 250);
+    padding: 12px;
+    border-radius: 5px;
+   
+}
+
+
+
+
+
